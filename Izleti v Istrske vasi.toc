@@ -1,0 +1,15 @@
+\select@language {german}
+\select@language {slovene}
+\contentsline {section}{\numberline {0.1}Istra na splo\v sno}{4}
+\contentsline {subsection}{\numberline {0.1.1}Zgodovina}{5}
+\contentsline {section}{\numberline {0.2}Isrtske vasi}{7}
+\contentsline {subsection}{\numberline {0.2.1}Dragonja}{7}
+\contentsline {subsection}{\numberline {0.2.2}Krkav\v ce}{8}
+\contentsline {subsection}{\numberline {0.2.3}Se\v covlje}{10}
+\contentsline {subsubsection}{Fontanigge}{11}
+\contentsline {subsection}{\numberline {0.2.4}Strunjan}{12}
+\contentsline {subsection}{\numberline {0.2.5}Hrastovlje}{13}
+\contentsline {subsection}{\numberline {0.2.6}Sv. Peter}{14}
+\contentsline {subsubsection}{Tonina hi\v sa}{15}
+\contentsline {subsection}{\numberline {0.2.7}Padna}{15}
+\contentsline {section}{\numberline {0.3}Zaklju\v cek}{17}

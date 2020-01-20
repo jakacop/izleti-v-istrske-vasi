@@ -1,0 +1,194 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt]{article}
+%
+\usepackage[a4paper]{geometry}
+\usepackage[slovene,english,german]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[cp1250]{inputenc}
+\usepackage{graphicx}
+\usepackage{bchart}
+\usepackage{fancyhdr}
+\usepackage{gensymb}
+\usepackage{wrapfig}
+%
+%
+
+\author{Jaka Èop}
+\title{Izleti v istrske vasi}
+
+%
+\begin{document}
+\pagestyle{fancy}
+\selectlanguage{slovene}
+
+
+\begin{centering}
+{\huge Gimnazija Viè}\\[.5cm]
+{\Large Tržaška cesta 72, Ljubljana}\\
+\vfill
+{\bf\Large Izleti v istrske vasi}\\[1cm]
+{\large Jaka Èop, 4. b}\\
+\vfill\vfill
+{\flushleft\large Mentorica:
+\begin{itemize}
+  \item Alida Radoman, prof. geografije
+\end{itemize}}
+%\vspace{3cm}
+\vfill\vfill
+{\Large Ljubljana: šolsko leto 2016/17}
+
+\end{centering}
+\nopagebreak
+
+\newpage
+  \abstract{a}
+  \newpage
+%
+\thispagestyle{empty}
+\tableofcontents
+\newpage
+
+\section{Istra na splošno}
+\begin{figure}[!htbp]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=.3\textwidth]{./Slike/Istrskigrb.png}\\
+  \caption{Istrski grb iz zaèetka 19.st.}\label{grb}
+\end{figure}
+Istra je polotok v jugozahodni Sloveniji in severozahodni Hrvaški na severu Jadranskega morja. Majhen del Istre sega tudi v Italijo. Prebivalci so Istrani.
+
+Istra meri $2820$ $km^2$ in ima $206344$ prebivalcev ($2001$). Istra je tradicionalno etnièno mešana in jo sestavljajo Hrvati, Slovenci, Italijani in drugi. V Istri so zastopani hrvaški jezik (èakavšèina), slovenski in italijanski (istrobeneški) jezik. Manjše število prebivalcev na posameznih obmoèjih pa govori še istroromunski (t. i. vlaški in žejanski) ter romanski istriotski jezik. Veèina prebivalstva je dvo ali veèjezièna.
+
+Zaradi svoje razèlenjenosti je obala kar dvakrat daljša od cestne razdalje. Zahodna obala Istre je dolga $242,5$ km, z otoki $327,5$ km. Vzhodna obala Istre pa meri $202,6$ km, s pripadajoèimi otoki $212,4$ km. Temperatura morja je najnižja marca, ko se giblje med 9,3\degree C in 11,1\degree C in najvišja avgusta, ko se giblje med 23,3\degree C in 24,1\degree C. Povpreèna slanost morja znaša med 36 in 38 promilov. Pomembnejše reke na obmoèju Istre so Mirna, Dragonja, Raša
+
+Zahodna obala Istre je bolj razgibana in naseljena, vzhodna pa bolj strma in manj naseljena. Obièajno Istro delijo na tri dele:
+\begin{itemize}
+  \item bela Istra (Èièarija in Uèka ter vzhodni del) zaradi kamnitega krasa,
+  \item siva Istra (srednji del) zaradi glinastih tal in
+  \item rdeèa Istra (zahodni in južni del) zaradi rdeèe zemlje (italijansko: terrarossa).
+\end{itemize}
+
+Istra je najveèja zelena oaza severnega Jadrana. Vzdolž obale in na otokih prevladujejo borovi gozdovi in prepoznavna zelena makija. Glavna predstavnika makije sta èrnika in jagodiènica. Gozdovi prekrivajo 35\% površine Istre.
+
+Pomembnejša istrska mesta so Koper, Pulj ali Pula, Poreè, Rovinj, Pazin, Labin, Buzet, Opatija, Umag, Piran, Izola, Novigrad, Vodnjan, Milje in Dolina. Od teh so Koper, Piran in Izola v Sloveniji, Milje in Dolina ležita v Italiji, ostali kraji pa ležijo na Hrvaškem.
+
+\subsection{Zgodovina}
+Ime Istra izhaja iz imena ilirskega plemena Histri, po drugi teoriji pa je Istra poimenovana po reki Histar (Donava), za katero se je v starih èasih domnevalo, da se v Istri izliva v Jadransko morje. To je povezano z legendo o Argonavtih, ki so tod pluli okoli 1250 pr. n. št.
+
+Istra je bila naseljena že v paleolitiku. V predrimskem obdobju se je v Istri razvila mreža približno 500 naselij znanih pod imenom kaštelirji. Rimljani so Histre opisali kot kruto pleme piratov, zašèitenih s težko navigacijo okoli njihovih skalnih obal. Rimljani so potrebovali dva vojna pohoda, da so jih leta 178 oz. 177 pr. n. št. konèno uspeli ukrotiti. Tedaj so unièili njihovo glavno mesto Nezakcij (Nezakcij leži na današnji lokaciji Vizaèe v južni Istri, kakšnih 10 kilometrov od Pule), istrski kralj Epulon pa je napravil samomor.
+
+Rimljani so vladali v Istri do njihovega propada leta 476. Znani so po tem, da so Istro zelo razvili. V Puli in Poreèu so zgradili kolonije, na otoèju Brionov in drugod ob zahodni obali so zgradili vile in posestva. Istro je s cesarstvom povezovala itinerarna cesta Via Flavia z izhodišèem v Akvileji (Ogleju). V Puli so zgradili amfiteater - areno, forum, Avgustov hram, slavolok Sergijevcev in druge objekte, ki jih še danes obèudujemo.
+
+Po propadu Rimskega cesarstva so Istro zasedli Goti in Langobardi.
+
+Leta 788 Istra pripade Frankom. Slovani so Istro zaèeli naseljevati v sedmem stoletju. Med najstarejšimi viri, ki omenjajo prisotnost Slovanov na današnjem ozemlju Primorske je listina rižanskega zbora (italijansko Il Placito del Risano). To je naziv zapisnika rižanskega zbora, ki se je najjverjetneje odvijal leta 804, v kraju Rižana blizu Kopra. Rižanski zbor je sklical gradeški patriarh Fortunat. Udeležili so se ga predstavniki istrskih mest in kaštelov, predsedovali pa so mu trije cesarjevi odposlanci. V njej je, med drugim, zapisana obveza vojvode Janeza, ki je predstavljal tedanjo frankovsko oblast nad deželo, da bo Slovane, ki so se nastanili v okolico mest, pregnal v tiste kraje, v katerih mestom ne bodo povzroèali škode na poljih in v gozdovih.
+
+Pred Napoleonovimi osvojitvami (1796) je del srednje in severovzhodne Istre (tako imenovana Kranjska Istra) pripadal Kranjski vojvodini
+Beneška republika je zaèela prevzemati oblast nad zahodno in južno obalo Istre v 13. stoletju, medtem ko je osrednja in vzhodna Istra ostajala v okviru vojvodine Kranjske. Meja se je v naslednjih stoletjih stabilizirala, tako da sta približno dve tretjini Istre pripadali Benetkam, ena pa Kranjski.
+
+Na beneški strani so bili Buzet in Roè, Motovun in Kafanar, Svetivinèenat in Barban ter Raša, Labin in Plomin.
+
+V notranjosti Istre je dežela Kranjska vkljuèevala Pazinsko grofijo, Beram, Tinjan, Sv. Petar, Žminj in Boljun, onstran Uèke pa Brseè, Mošèenice, Lovran, Volosko in Kastav.
+
+Sredi 15. in 16. stoletja je prebivalstvo Istre moèno zdesetkala kuga. Beneèani so upad prebivalstva zaèeli nadomešèati z naseljevanjem slovanskih prebivalcev iz svojih ozemelj na južni obali Jadrana, predvsem iz Dalmacije in Èrne Gore. Poleg tega je v èasu Turških vpadov in po hrvaško-ogrskem porazu leta 1493 v Krbavski bitki Istro preplavil val èakavskih beguncev iz Like, zahodne Bosne in ostale Primorske Hrvaške. Vse to je prispevalo k izredni demografski pestrosti Istre, ki se je ohranila do današnjih dni.
+
+Med letoma 1805 in 1813 je bila Istra pod Napoleonovo oblastjo in je bila najprej del Italijanskega kraljestva, od leta 1809 pa je bila vkljuèena v Ilirske province.
+
+Po propadu Beneške republike (1797) in Napoleona so celotnemu polotoku zavladali Habsburžani in ohranili oblast do konca I. svetovne vojne. V tem obdobju je doživela ponoven razcvet, zlasti Pula, ki je bila glavna vojaška luka avstro-ogrske monarhije.
+
+Po I. svetovni vojni je Istra pripadla Italiji, po II. svetovni vojni pa Jugoslaviji.
+
+Po osamosvojitvi Slovenije in Hrvaške leta 1991, veèji del Istre pripada Hrvaški in manjši severni del Sloveniji. Meja v Istri je najmlajši del slovensko-hrvaške meje, ki bo v celoti doloèena šele z arbitražnim sporazumom.
+
+\newpage
+
+\section{Isrtske vasi}
+
+V tem poglavju bomo predstavili nekaj kljuènih/najlepših istrskih vasi. Izbor le-the je sicer oseben, a nikakor nakljuèen.
+
+\subsection{Abitanti}
+
+Ta hribovska flišna deželica nad povirjem reke Dragonje že sodi pod Šavrinska brda. V vasico Abitanti vstopiš z njenega hrbta, od tam, kjer vanjo buta burja. Vse v vasici je še danes povezano, vse je smiselno oblikovano za družine in živino, vse je po èloveški meri. Korte, dvorišèa, ki si jih je nekoè delila vsa soseska, nekoè, preden so prebivalci preniknili skozi razselitveno sito zadnjih petdesetih let.
+
+\subsection{Dragonja}
+
+\subsection{Krkavèe}
+
+\subsection{Seèovlje}
+
+V svetu vse bolj priljubljeno opazovanje ptic lahko svojo obljubljeno deželo najde na naših tleh prav tu, na trikotniku med Seèovljami, Seèo in Savudrijskim zalivom, kjer se Dragonja na koncu svoje poti, tik preden jo popije morje, še poslednjiè izkaže v svoji ustarjalni moèi, ko se na lastnih naplavinah razlije v mogoèno delto (Iztok Geister). Že od rimskih èasov naprej so tu nastajale soline, sistem plitvih umetnih bazenov, prepreženih s privezi, kanali in zapornicami. Od tod je Martin Krpan tihotapil sol. Skoraj neresnièni, skoraj pravljièni nadih tega velikega naravnega in tehniškega spomenika je z mirom zelo radodaren, še bolj kot s soncem.
+
+Na jugu leži naselje solinarskih hiš, imenovan Fontanigge. Našteli so okoli 150 ostankov hiš, nekaterih že docela podrtih. Tri so obnovljeni in sta vkljuèeni v Muzej solinarstva na prostem. V njih si je mogoèe ogledati orodje nekdanjih solinarjev in spoznati postopek pridobivanja soli.
+
+Del sistema se je imenoval petolo: za prst ali dva debela skorja alg, sadre, karbonatnih mineralov in gline. Nanjo je "`padla"' sol, potem ko se je izkristalizirala iz tankih plasti nagrinjane in vse bolj zgošèevane morske vode. Petolo je bil tisti izolator, zaradi katerega je bila piranska sol bela in "`sladka"', se pravi posebno okusna. Solinarji so torej zgradili enkraten, v nekaterih podrobnostih celo genialen gospodarski, ekološki in etnološki sistem; a ga je kot toliko drugih izjemnih spomenikov èlovekovega dela povozil èas. Kljub zanimanju Unesca za Fontanigge je ta kraj le opusteli fragment nekdanjega življenja, sled sence nekdanje solinarske poletne tlake in solinarskega stanovskega ponosa, nenavadnih obièajev in lepih italijanskih pesmi.
+
+Nad tem krajem je po izselitvi italijanskega življa - v glavnem po letu 1953 rušilno zagospodarila pozaba. Nasipi se podirajo, voda preplavlja fonde, del solin se zdaj pogreza v morje in izsušuje. Obsežne ravnice so porasle s trsjem in trsteniko. Po trstièju kar mrgoli krilatcev. Ornitologi so našteli okoli 200 ptièjih vrst, od tega jih 80 tu gnezdi, druge pa so veèinoma preletne. Milo sredozemsko podnebje, slana tla, polna lepih in nedotaknjeih rastišè slanuša ali halofitov, ponujajo pticam mir in obilo hrane, zato so soline gostoljubne tudi za èim manj opazne sprehajalce in fotografe ptièev.
+
+\subsubsection{Fontanigge}
+
+Severna obala Istre je bila nekoè ena sama velika tovarna soli: Koper, Strunjan, Lucija, Seèovlje ... V seèoveljski solinah sol pridelujejo še danes, in sicer v Leri, njihovi severni polovici. V južni polovici, v Fontaniggah, je solinarstvo umrlo; spomin nanj je ohranjen v muzeju.
+
+Zob èsa in narava sta gotovo najobsežnejšo in najstarejšo "`tovarno"' pri nas - seèoveljske soline - spremenila v naše najveèje mokrišèe, ki je od leta 1993 kot edino morišèe pri nas zavarovano v okviru Unescove ramsarske konvencije. 
+
+Narava in zgodovinski spomin nimata politiènih meja. Tudi naš pogled jih nima, ko sega po fantastièni poljani približno 500 hektarjev solnih polj, na katerih je posejanih okoli 150 hiš (v 19. stoletju so našteli kar 493 hiš). Tri med njimi, ob kanalu Giassi, so obnovljene. Tu lahko vidimo, kako so poleti živeli solinarji, kako so ubirali sol, kako so vešèe gospodarili z vodo, zapornicami in vetrnicami, vetrovi in soncem. Vidimo lahko njihovo orodje in diplome, ki so jihza svojo "`sladko"' belo sol dobivali po vserm svetu. Današnja seèoveljska sol iz Lere v glavnem ni bela, ker kristalizira na glineni podlagi; je pa seveda dobra za zimsko posipavanje cest.
+
+\subsection{Strunjan}
+
+Pozimi na morje? Pogledati, kako se z zahoda zaène nad Slovenijo jasniti - ali obratno, oblaèiti? Videti od zimskega sonca svoje lastne dolge sence? Zadihati mehki, slanièavi zrak?
+
+Za tak izlet se odpravimo pod strunjanske klife, pod strme, ponekod navpiène stene strunjanskega polotoka, ki padajo naravnost v morje; v male, skrite zalivèke, v katerih smo se poleti morda kdaj samotno kopali. Pri the nekaj desetih kilometrih istrske obale, ki jo imamo, pri vsem tem prerivanju plaž, solin, lagun, izlivov, cestišè, industrije, pristanišè in naselij je ta naravna obala pravi èudež, velika uèilnica geologije, geomorfologije in botanike, in se zdi kot staro izroèilo sredi razdivjane urbanizacije; kot prizorišèe Lepe Vide.
+
+Strunjanski klif je najlepše doživeti med obema rtoma, v blagem zalivu, ki nosi ime po sv. Križu. Debeli in položni skladi laporjev ter pešèenjakov se zdijo kot velikanska globinska slika severne, flišne Istre. Z visokih sten, prepadno odrezanih od morja, se nenehno krušijo drobci skladov. Morski valovi spodkopavajo spodnje plasti, sonce s preperevanjem in padavine z odplavljanjem opravljajo svoje, zato se obala morju vse bolj umika. Kadar je bibavica nizka, se obrežni pas pod tem najveèjim flišnim klifom ob vsem Jadranu pomakne daleè v morje in podvodno življenje se pokaže kot na odrti koži velikanskega bitja sveta.
+
+Za te kraje sta spomladi znaèilni dve samonikli sredozemski rastlini: mirta in jagodiènica. Povsod pa nas bo s svojo toplo rumenino razveseljevala oko cvetoèa žuka ali brnistra.
+
+\subsection{Hrastovlje}
+
+Slovenija nima Chartresa ali Štefanove katedrale, je brez svetovno znanih pomembnih spomenikov umetnosti in zgodovine, zato pa ima brez števila manjših, a oèarljivih, za umetnostnozgodovinsko stroko in za turizem zanimivih spomenikov, še zlasti poslikanih cerkva. Med njimi velja za èudež med èudeži cerkvica svete Trojice v Hrastovljah, ki leži v zatrepu Rižanske doline v slovenski Istri, tam, kjer se kraška planota s svojimi sivimi apnenèastimi skladi strmo preveša v rodoviten zelenkast fliš in kjer se v prisojah sonèijo sosednje vasi Predloka in Podpeè ter Zanigrad, na peèini na kraškem robu pa bdei nad njimi okrogli beneški stražni stolp. Hrastoveljske ceerkvice ne vidimo, èeprav stoji na skalni vzpetini za vasjo, saj se izza visokega tabornega obzidja kaže le piramida njenega zvonika.
+
+Ob koncu 15. stoletja so tu živeli koprski tlaèani, ki so jih ropali in morili Turki. V zaèarani ris svoje bede ter strahu so na pomoè klicali le božjo luè. Njihov župnik, dušni pastir na Kubedu nad Hrastovljami, je v zakotno vas povabil slikarsko skupino iz Kastva nad Reko, o kateri je šel glas, da lepo poslikava vaške istrske cerkve. Freskant Janez iz Kastva je leta 1492 v Hrastovljah umetniško še presegel Vincenca (brata ali oèeta?), ki je dobro desetletje prej poslikal Beram, in po stenah treh tesnih cerkvenih ladij, banjasto obokanih, ki se iztekajo v apside, upodobil Biblio Pauperum, Sveto pismo za nepismene reveže, jo je naslikal po ustaljenih vzorcih, a z osebno malarsko vešèino in sprošèenim èustvom. Neposlikanega ni v cerkvici pustil niti za dotik prsta.
+
+Slikar Janez je seveda poznal estetske zakonitosti svoje dobe (pozna gotika), vendar je suhoparnim kanonom znal vdihniti duh zemeljske stvarnosti. Morda je v Hrastovljah zaèutil najveèje darilo, ki si ga želi umetnost: svobodo. Njegov naroènik namreè ni bil kak beneški providur in tudi ne koprski škof, paè pa ljudski župnik. Povedal je Janezu, èesa se njegovi ljudje bojijo in kaj si želijo, odprl mu je vrata v njihovo vero oz. nevero. Janez je vse to v alegorijah in svetopisemski podobah poslikal in nemara mu je pri tem šðe zmanjkalo prostora. Zakaj poskušal je ljudem v podobah razodeti, kako neskonèno jih ljubi njihov Bog. Povedal jim je to na skriti naèin. Kajti božja ljubezen se mora vendar razodevati, stoletja dolgo, vedno znova in znova. V Hrastovljah je Janez naslikal še Mrtvaški ples, prevratno (še nedolgo od tega bi rekli revolucionarno) podobo za tisti èas, ki je revežem kazala, da so si vsaj v neèem enaki in enakopravni z najbogatejšimi, najmoènejšimi in najnasiulnejšemi. Naslikal jim je paè podobo, ki velja za vse èase, globljo od revolucij.
+
+To svetišèe je skrito za dobro ohranjenim èetverokotnik taborskim obzidjem, ki ima okrogla obrambna stolpa s konca 16. stoletja.Tabor stoji na  majhni skalnati vzpetin ob robu vasi. Celota je zgledno obnovljena, za obiskovalce pa je pripravljena slišna razlaga v veè jezikih.
+
+Blizu leži tudi izvir Rižane in ob njem gojišèe sladkovodnih postrvi. V dolini je nekaj gostišè, tako da se po doživetju Mrtvaškega plesa lahko prijetno vrnemo med žive.
+
+\subsection{Zaliv sv. Križa}
+
+\subsection{Sv. Peter}
+
+\subsubsection{Tonina hiša}
+
+\subsection{Padna}
+
+Padna je le ena od šavrinskih vasi, ki obiskovalca oèarajo s svojo mediteransko naselbinsako kulturo. Dvorišèa so majhna, zardai èesar se hiše zdijo veèje. Gospodarska poslopja so borna ali pa jih sploh ni. Tu in tam lahko èlovek zavoha prašièa ali perjad, a živine ne sliši. Da tu živijo kmetije, to vidiš po traktorjih, ki prezimujejo na prostem.
+
+Padna živi na tesnem. Z njene višine (215 m) pada pogled v poplavne doline, ki so v svojih ravneh pa tudi v spodnjih legah poboèij neposeljene. Potem se dvigne in poravna z lego sosednjih šavrinskih vasi in spet pada tja do morja. Vasi imajo predslovenska imena, kakor so Pomjan, Kubed, Tinjan, Korte, Gažon in Koštabona. v tisoèletjih so menjavale prebivalstvo, ne pa svojih položajev, ki se kažejo tu kot gnezda, tam kot trdnjave. Izvirajo še iz prazgodovinskih èasov, ko so plemena, pogojno imenovana Iliri oz. Istri, po brdih postavljala gradišèa; za svoja utrjena selišèa so si odmerila toliko prostora, kolikor ga je dopušèal hrbet hriba; toliko ga imajo vasi še danes. V novejših èasih se je Šavrinija znašla v zgodovinskem zatišju. A še danes dajejo kamnite vasi s svojo vzvišeno lego, sklenjeno zazidanostjo in visokimi domovi vtis  utrjenih mestec.
+
+Kot Pedana je ima vasi bilo zapisano že leta 1186. Pozneje se je omenjalo še kot Padina. Pod Italijo je bila Padana Ime lahko še zmeraj vidimo zapisano na nekaterih starih hišnih številkah. V nekatere polrazpadle hiše se vseljujejo ljudje iz Italije, èeš da so se vrnili na domove svojih nonotov. Piranska obèina je dolga leta zavirala prodajo hiš v padni. Te so se v glavnem izpraznile ob odselitvenem valu v petdesetih letih - ko se je število prebivalcev s 480 osulo na 150, zdaj pa nekako otrplo opazuje vsakršno naseljevanje in spušèenih rok posluša pritožbe domaèinov. Vsaka gradnja je v vasi prepovedana, ker v njej še ni zgrajena kanalizacija.
+
+Te stvari se nas, kot turistov, seveda ne tièejo. Vse veè turistov prihaja v Padno, zato si nekateri domaèini obetajo gospodarsko prebujenje. Padna je ob najlepšem razgledišèem nad obalo, ob srednjeveški cerkvi sv. Blaža in ob Galeriji Božidarja Jakca zagotovo pravi cilj za radovednega raziskovalca Istre. Slikar Božidar Jakac je tu preživljal svoje otroštvo v hiši svojih staršev. Padenci so v tej hiši odprli lièno galerijo, kjer so na ogled mojstrove grafike in risbe. Razstavljenih je tudi nekaj rimskih najdb iz okolice, kar je zametek krajevnega muzejèka. Na steni stare plemenite hiše gostuje pesnikov zapis o Jakcu: "`Ta svet mu je dal barve, luè in sence, da je proslavil sebe in Slovence."' Naj verza Toneta Pavèka navdihneta še koga.
+
+%\subsection{Laèna}
+
+%\subsection{Tinjan}
+
+\newpage
+\begin{thebibliography}{99}
+
+  \bibitem{kozinc1}	Kozinc, Ž, 1999, Lep dan klièe
+  \bibitem{kozinc2} Kozinc, Ž, 2001, Lep dan klièe 2
+  \bibitem{kozinc3}	Kozinc, Ž, 2003, Lep dan klièe 3
+  \bibitem{kozinc4}	Kozinc, Ž, 2007, Lep dan klièe 4
+  \bibitem{wikipedia}	Wikipedia, the Free Encyclopedia: \verb+http://en.wikipedia.org/+
+
+\end{thebibliography}
+
+
+\end{document} 
